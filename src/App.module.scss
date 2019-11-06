@@ -1,0 +1,36 @@
+.app {
+  text-align: right;
+}
+
+.header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  color: white;
+}
+
+.text {
+  width: 30rem;
+  display: flex;
+  justify-content: space-between;
+  flex-direction: row-reverse;
+}
+
+.input {
+  height: 20rem;
+  width: 29.6rem;
+}
+
+.counter {
+  font-size: 1rem;
+  color: #fff;
+}
+
+.red {
+  color: red;
+  font-size: 1rem;
+
+}
